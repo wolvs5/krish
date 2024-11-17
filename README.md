@@ -1,2 +1,2 @@
-# krish
-this is an example
+#HTML AND JAVASCRIPT WEEK 1
+
